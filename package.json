@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/yoonjk/couchdb_example#readme",
   "dependencies": {
+    "moment": "^2.22.2",
     "nano": "^7.1.0"
   }
 }
